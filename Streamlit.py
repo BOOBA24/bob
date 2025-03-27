@@ -26,7 +26,7 @@ if menu == "Accueil":
         """
         <div style='text-align:center;'>
             <h1 style='color:#6c63ff;'>Bienvenue sur l'Analyse des Données Beans</h1>
-            <p style='color:#4a4a4a;'>Explorez les données et découvrez des insights intéressants à travers des visualisations.</p>
+            
         </div>
         """, unsafe_allow_html=True
     )
